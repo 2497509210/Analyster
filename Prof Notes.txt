@@ -1,0 +1,4 @@
+Future desired features & Observed bugs
+
+
+1. output from select window should have resizable columns

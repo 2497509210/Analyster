@@ -1,0 +1,15 @@
+-------------------------2015-03-06 03:11:31 PM-------------------------
+2015-03-06 03:11:37 PM: 
+Start to connect AWS...
+2015-03-06 03:11:39 PM: Connect successfully!
+
+
+2015-03-06 03:11:39 PM: null
+2015-03-06 03:11:39 PM: select * from Assignment
+2015-03-06 03:12:03 PM: 
+Start to connect AWS...
+2015-03-06 03:12:04 PM: Connect successfully!
+
+
+2015-03-06 03:12:05 PM: null
+2015-03-06 03:12:05 PM: select * from Assignment
